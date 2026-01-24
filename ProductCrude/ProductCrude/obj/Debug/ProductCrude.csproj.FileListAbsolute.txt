@@ -1,0 +1,10 @@
+C:\Dotnet\ProductCrude\ProductCrude\bin\Debug\ProductCrude.exe.config
+C:\Dotnet\ProductCrude\ProductCrude\bin\Debug\ProductCrude.exe
+C:\Dotnet\ProductCrude\ProductCrude\bin\Debug\ProductCrude.pdb
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.csproj.AssemblyReference.cache
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.Form1.resources
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.Properties.Resources.resources
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.csproj.GenerateResource.cache
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.csproj.CoreCompileInputs.cache
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.exe
+C:\Dotnet\ProductCrude\ProductCrude\obj\Debug\ProductCrude.pdb

@@ -1,0 +1,42 @@
+﻿@model WebApp.Models.Book
+
+@{
+    ViewData["Title"] = "AddBook";
+}
+
+<h1>AddBook</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddBook">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group  mb-3">
+                <label asp-for="BId" class="control-label"></label>
+                <input asp-for="BId" class="form-control" />
+                <span asp-validation-for="BId" class="text-danger"></span>
+            </div>
+            <div class="form-group  mb-3">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group  mb-3">
+                <label asp-for="Author" class="control-label"></label>
+                <input asp-for="Author" class="form-control" />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+            <div class="form-group  mb-3">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group  mb-3">
+                <input type="submit" value="AddBook" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+

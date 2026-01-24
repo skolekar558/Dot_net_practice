@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|c:\\dotnet\\webapp\\webapp\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|c:\\dotnet\\webapp\\webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|c:\\dotnet\\webapp\\webapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEC168D-87BC-4559-A5CD-AE6D6DE993E3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\WebApp\\WebApp\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Dotnet\\WebApp\\WebApp\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:07:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Dotnet\\WebApp\\WebApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Dotnet\\WebApp\\WebApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:03:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Dotnet\\WebApp\\WebApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Dotnet\\WebApp\\WebApp\\Models\\Book.cs",
+              "RelativeToolTip": "WebApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:50:40.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

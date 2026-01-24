@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet\\StateManagmentDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\views\\readcookiesession\\readsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\views\\readcookiesession\\readsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\controllers\\readcookiesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\controllers\\readcookiesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\views\\home\\workingwithsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\views\\home\\workingwithsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\views\\readcookiesession\\readcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\views\\readcookiesession\\readcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|c:\\dotnet\\statemanagmentdemo\\statemanagmentdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4BA05D-750A-43EC-B284-8D92E49F26EC}|StateManagmentDemo\\StateManagmentDemo.csproj|solutionrelative:statemanagmentdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StateManagmentDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:56:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadSession.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\ReadCookieSession\\ReadSession.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Views\\ReadCookieSession\\ReadSession.cshtml",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\ReadCookieSession\\ReadSession.cshtml",
+              "RelativeToolTip": "StateManagmentDemo\\Views\\ReadCookieSession\\ReadSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:54:31.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkingWithSession.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Home\\WorkingWithSession.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Views\\Home\\WorkingWithSession.cshtml",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Home\\WorkingWithSession.cshtml",
+              "RelativeToolTip": "StateManagmentDemo\\Views\\Home\\WorkingWithSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:51:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Program.cs",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Program.cs",
+              "RelativeToolTip": "StateManagmentDemo\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:48:25.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadCookie.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\ReadCookieSession\\ReadCookie.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Views\\ReadCookieSession\\ReadCookie.cshtml",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\ReadCookieSession\\ReadCookie.cshtml",
+              "RelativeToolTip": "StateManagmentDemo\\Views\\ReadCookieSession\\ReadCookie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:20:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateManagmentDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:18:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateManagmentDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:17:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadCookieSessionController.cs",
+              "DocumentMoniker": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Controllers\\ReadCookieSessionController.cs",
+              "RelativeDocumentMoniker": "StateManagmentDemo\\Controllers\\ReadCookieSessionController.cs",
+              "ToolTip": "C:\\Dotnet\\StateManagmentDemo\\StateManagmentDemo\\Controllers\\ReadCookieSessionController.cs",
+              "RelativeToolTip": "StateManagmentDemo\\Controllers\\ReadCookieSessionController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:08:57.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

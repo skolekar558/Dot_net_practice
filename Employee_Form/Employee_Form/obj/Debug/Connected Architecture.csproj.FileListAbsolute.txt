@@ -1,0 +1,13 @@
+C:\Dotnet\Employee_Form\Employee_Form\bin\Debug\Employee_Form.exe.config
+C:\Dotnet\Employee_Form\Employee_Form\bin\Debug\Employee_Form.exe
+C:\Dotnet\Employee_Form\Employee_Form\bin\Debug\Employee_Form.pdb
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Connected Architecture.csproj.AssemblyReference.cache
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Customer.resources
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Form1.resources
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Product.resources
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Student.resources
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Connected Architecture.csproj.GenerateResource.cache
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Connected Architecture.csproj.CoreCompileInputs.cache
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.exe
+C:\Dotnet\Employee_Form\Employee_Form\obj\Debug\Employee_Form.pdb

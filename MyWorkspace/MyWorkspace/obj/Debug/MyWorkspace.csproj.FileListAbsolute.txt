@@ -1,0 +1,7 @@
+C:\Dotnet\MyWorkspace\MyWorkspace\bin\Debug\MyWorkspace.exe.config
+C:\Dotnet\MyWorkspace\MyWorkspace\bin\Debug\MyWorkspace.exe
+C:\Dotnet\MyWorkspace\MyWorkspace\bin\Debug\MyWorkspace.pdb
+C:\Dotnet\MyWorkspace\MyWorkspace\obj\Debug\MyWorkspace.csproj.AssemblyReference.cache
+C:\Dotnet\MyWorkspace\MyWorkspace\obj\Debug\MyWorkspace.csproj.CoreCompileInputs.cache
+C:\Dotnet\MyWorkspace\MyWorkspace\obj\Debug\MyWorkspace.exe
+C:\Dotnet\MyWorkspace\MyWorkspace\obj\Debug\MyWorkspace.pdb

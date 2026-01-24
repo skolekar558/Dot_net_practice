@@ -1,0 +1,7 @@
+C:\Dotnet\TreadDemo\TreadDemo\bin\Debug\TreadDemo.exe.config
+C:\Dotnet\TreadDemo\TreadDemo\bin\Debug\TreadDemo.exe
+C:\Dotnet\TreadDemo\TreadDemo\bin\Debug\TreadDemo.pdb
+C:\Dotnet\TreadDemo\TreadDemo\obj\Debug\TreadDemo.csproj.AssemblyReference.cache
+C:\Dotnet\TreadDemo\TreadDemo\obj\Debug\TreadDemo.csproj.CoreCompileInputs.cache
+C:\Dotnet\TreadDemo\TreadDemo\obj\Debug\TreadDemo.exe
+C:\Dotnet\TreadDemo\TreadDemo\obj\Debug\TreadDemo.pdb

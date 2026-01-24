@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet\\EFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|c:\\dotnet\\efdemo\\efdemo\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F5A395-D802-456A-A0A4-5FCFB4846008}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "EFDemo\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "EFDemo\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:35:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFDemo\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EFDemo\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:22:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Models\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Models\\ProductDAL.cs",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Models\\ProductDAL.cs",
+              "RelativeToolTip": "EFDemo\\Models\\ProductDAL.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:20:10.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Models\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Models\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Models\\EmployeeDAL.cs",
+              "RelativeToolTip": "EFDemo\\Models\\EmployeeDAL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:55:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAqwHAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:22:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Dotnet\\EFDemo\\EFDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Dotnet\\EFDemo\\EFDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:25:11.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
